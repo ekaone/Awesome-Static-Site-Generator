@@ -12,3 +12,8 @@
 - [`Docsify` Docsify generates your documentation website on the fly](https://docsify.js.org/)
 - [`MkDocs` Documentation source files are written in Markdown, and with a single YAML configuration file](http://www.mkdocs.org/)
 - [`React Static` Toolkit for building static-progressive React applications and websites](https://react-static.js.org/)
+- [`UmiJS` Extensible enterprise-level front-end application framework](https://umijs.org/)
+- [`Pelican` Pelican Static Site Generator, Powered by Python](https://blog.getpelican.com/)
+- [`Eleventy` An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates](https://www.11ty.dev/)
+- [`Gridsome` A Jamstack framework for Vue.js](https://gridsome.org/)
+- [`Metalsmith` Simple, pluggable static site generator](https://metalsmith.io/)
